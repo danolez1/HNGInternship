@@ -17,4 +17,6 @@ if ($stmt){
 	echo json_encode(array("response"=>$result));
 
 }
+$stmt = null;
+$conn->close();
 
