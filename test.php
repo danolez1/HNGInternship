@@ -1,4 +1,8 @@
 <?php
+/*@author Fatunmbi  Daniel 
+  Date 17/08/2017
+*/
+
 define("HOST_NAME","localhost");
 define("USERNAME","root");
 define("PASSWORD","password");
