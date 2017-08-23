@@ -1,6 +1,6 @@
 <?php
 function write_a_simple_php_script(){
-echo"write a simple php script";	
+echo "write a simple php script";	
 }
 /*@author Fatunmbi  Daniel 
   Date 17/08/2017
